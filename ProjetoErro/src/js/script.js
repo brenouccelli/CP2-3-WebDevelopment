@@ -42,7 +42,7 @@ botao.addEventListener("click", function () {
     let novaImg = document.createElement("img");
     novaImg.id = "minhaImagem";
    
-    novaImg.src = "./assets/Imagem.jpg";
+    novaImg.src = "./src/assets/academia.jpg";
     novaImg.alt = "Imagem ilustrativa do treino";
 
     novaImg.style.width = "100%";
